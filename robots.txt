@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-o2jz81.nuansa138win.cfd/sitemap.xml
